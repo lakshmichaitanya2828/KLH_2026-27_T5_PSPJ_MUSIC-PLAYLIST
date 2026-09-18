@@ -1,9 +1,9 @@
 Project Title: Music Playlist Listening Stats Manager
 Team No: KLH/PSPJAVA/S14/T05 
 ## Team Member Names with ID Numbers:
-1. 262003XXX - [Your Name]
-2. 262003XXX - [Teammate Name]
-3. 262003XXX - [Teammate Name]
+1. 2620030087 - Lakshmi Chaitanya
+2. 2620030093 - Navya Chowdary
+3. 2620030248 - Shanmuka Priya
 
 Supervisor’s Name: Dr. Madhavi Karumudi 
 
@@ -15,6 +15,6 @@ Supervisor’s Name: Dr. Madhavi Karumudi
 1. Open your terminal or command prompt.
 2.  Navigate to the src directory.
 3. Compile the Java file using:
-    > javac MusicPlaylistManager.java (http://MusicPlaylistManager.java/)
+    > javac MusicPlaylistManager.java 
  4. Run the program using:
     > java MusicPlaylistManager
